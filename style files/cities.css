@@ -1,0 +1,183 @@
+/*Small Phones 320px*/
+
+@media only screen and (min-width: 320px) {
+    .konteyner {
+        width: 90%;
+        height: 1000px;
+        margin-left: 5%;
+        margin-top: 10px;
+        overflow: hidden;
+        text-align: center;
+    }
+    h3 {
+        color: blue;
+    }
+    img {
+        height: 180px;
+    }
+    .futer {
+        width: 100%;
+        height: 110px;
+        margin-top: 5px;
+        color: white;
+        text-align: center;
+        background-color: rgb(41, 38, 38);
+    }
+    .ikonkalar {
+        width: 100;
+        height: 50px;
+        display: flex;
+    }
+    #ikonkabir {
+        width: 10%;
+        height: 30px;
+        margin-left: 20%;
+    }
+    #ikonka {
+        width: 10%;
+        height: 30px;
+        margin-left: 3%;
+    }
+    .sayt {
+        display: contents;
+    }
+}
+
+
+/*Small Phones 375px*/
+
+@media only screen and (min-width: 375px) {
+    .konteyner {
+        width: 90%;
+        height: 1000px;
+        margin-left: 5%;
+        margin-top: 10px;
+        overflow: hidden;
+        text-align: center;
+    }
+    h3 {
+        color: blue;
+    }
+    img {
+        height: 230px;
+    }
+    .futer {
+        width: 100%;
+        height: 110px;
+        margin-top: 5px;
+        color: white;
+        text-align: center;
+        background-color: rgb(41, 38, 38);
+    }
+    .ikonkalar {
+        width: 100;
+        height: 50px;
+        display: flex;
+    }
+    #ikonkabir {
+        width: 10%;
+        height: 35px;
+        margin-left: 20%;
+    }
+    #ikonka {
+        width: 10%;
+        height: 35px;
+        margin-left: 3%;
+    }
+    .sayt {
+        display: contents;
+    }
+}
+
+
+/*Middle Phones 375px*/
+
+@media only screen and (min-width: 425px) {
+    .konteyner {
+        width: 90%;
+        height: 1000px;
+        margin-left: 5%;
+        margin-top: 10px;
+        overflow: hidden;
+        text-align: center;
+    }
+    h3 {
+        color: blue;
+    }
+    img {
+        height: 250px;
+    }
+    .futer {
+        width: 100%;
+        height: 110px;
+        margin-top: 5px;
+        color: white;
+        text-align: center;
+        background-color: rgb(41, 38, 38);
+    }
+    .ikonkalar {
+        width: 100;
+        height: 50px;
+        display: flex;
+    }
+    #ikonkabir {
+        width: 9%;
+        height: 35px;
+        margin-left: 20%;
+    }
+    #ikonka {
+        width: 9%;
+        height: 35px;
+        margin-left: 3%;
+    }
+    .sayt {
+        display: contents;
+    }
+}
+
+
+/*Laptops 992px*/
+
+@media only screen and (min-width: 992px) {
+    .konteyner {
+        width: 60%;
+        height: 1000px;
+        margin-left: 20%;
+        margin-top: 10px;
+        overflow: hidden;
+        text-align: center;
+    }
+    h3 {
+        color: blue;
+    }
+    img {
+        height: 450px;
+    }
+    .futer {
+        width: 100%;
+        height: 150px;
+        margin-top: 5px;
+        color: white;
+        text-align: center;
+        background-color: rgb(41, 38, 38);
+    }
+    .ikonkalar {
+        width: 100;
+        height: 50px;
+        display: flex;
+        background-color: rgb(41, 38, 38);
+    }
+    #ikonkabir {
+        width: 3%;
+        height: 40px;
+        margin-left: 36%;
+    }
+    #ikonka {
+        width: 3%;
+        height: 40px;
+        margin-left: 3%;
+    }
+    .sayt {
+        display: contents;
+    }
+}
